@@ -1,0 +1,6 @@
+require("local.plugins")
+require("local.lsp-clang")
+require("local.gui")
+require("local.keymaps")
+require("local.bluloco")
+require("local.monokai-pro")
