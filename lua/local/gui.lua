@@ -1,4 +1,4 @@
-lvim.colorscheme = "monokai-pro"
+lvim.colorscheme = "onedark"
 lvim.transparent_window = true 
 vim.opt.background = dark
 vim.opt.wrap = true
@@ -9,4 +9,5 @@ vim.opt.spelllang = { "en", "pt_br" }
 
 
 vim.opt.termguicolors = true
-vim.cmd('colorscheme monokai-pro')
+-- vim.cmd('colorscheme monokai-pro')
+vim.cmd('colorscheme onedark')
