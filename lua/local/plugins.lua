@@ -11,16 +11,11 @@ lvim.plugins = {
   end,
 },
 
---{
---  "loctvl842/monokai-pro.nvim",
---  config = function()
---    require("monokai-pro").setup()
---  end
---},
-
 {
-  "olimorris/onedarkpro.nvim",
-  priority = 1000, -- Ensure it loads first
+  "loctvl842/monokai-pro.nvim",
+  config = function()
+    require("monokai-pro").setup()
+  end
 },
 -- 
 
