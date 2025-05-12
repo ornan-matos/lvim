@@ -75,7 +75,7 @@ vim.api.nvim_create_autocmd("FileType", {
 
 ---
 
-## 🚀 Instalação e Uso
+## Instalação e Uso
 
 1. **Clone o repositório:**
 
@@ -101,7 +101,7 @@ vim.api.nvim_create_autocmd("FileType", {
 
 ---
 
-## 🧠 Considerações Finais
+## 🔎 Considerações Finais
 
 Esta configuração do LunarVim é modular e organizada, facilitando a personalização conforme suas necessidades. A estrutura em módulos Lua permite uma manutenção mais eficiente e a adição de funcionalidades específicas sem comprometer a clareza do arquivo principal de configuração.
 
