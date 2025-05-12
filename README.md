@@ -1,6 +1,3 @@
-O repositório [ornan-matos/lvim](https://github.com/ornan-matos/lvim) contém uma configuração personalizada do LunarVim, organizada para facilitar a manutenção e expansão.
-
----
 
 ## 📁 Estrutura do Repositório
 
@@ -107,5 +104,7 @@ vim.api.nvim_create_autocmd("FileType", {
 ## 🧠 Considerações Finais
 
 Esta configuração do LunarVim é modular e organizada, facilitando a personalização conforme suas necessidades. A estrutura em módulos Lua permite uma manutenção mais eficiente e a adição de funcionalidades específicas sem comprometer a clareza do arquivo principal de configuração.
+
+O repositório [ornan-matos/lvim](https://github.com/ornan-matos/lvim) contém uma configuração personalizada do LunarVim, organizada para facilitar a manutenção e expansão.
 
 Para mais informações sobre a configuração do LunarVim, consulte a [documentação oficial](https://www.lunarvim.org/docs/configuration).
